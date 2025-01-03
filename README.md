@@ -1,5 +1,5 @@
 # 💫 Hello there, **ROSHAN** 😄 here
-<br>Exploring the future with AI & ML, one algorithm at a time.<br><br><br>🎓I'm currently pursuing my B Tech - Computer Science<br>👀Passionate about building innovative AI models that learn, adapt, and transform data into powerful solutions<br> 📈Hands on with DataScience<br>🌨️AWS Cloud Practioner <br>
+<br><br>🎓I'm currently pursuing my B Tech - Computer Science<br>👀Passionate about building innovative AI models that learn, adapt, and transform data into powerful solutions<br> 📈Hands on with DataScience<br>🌨️AWS Cloud Practioner <br> <br> <br>Exploring the future with AI & ML, one algorithm at a time.
 
 
 ## 🌐 Socials:
