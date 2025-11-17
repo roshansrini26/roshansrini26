@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓B Tech - Computer Science<br>👨🏻‍💻 Python Developer<br><br>📈DataScience<br>🌨️AWS Cloud
+🎓Masters - Data Science | B Tech - Computer Science<br>👨🏻‍💻 Python Developer<br><br>📈DataScience<br>🌨️AWS Cloud
 
 
 ## 🌐 Socials:
