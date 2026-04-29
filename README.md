@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓Masters - Data Science | B Tech - Computer Science<br>👨🏻‍💻 Python Developer<br><br>📈DataScience<br>🌨️AWS Cloud
+🎓Masters - Data Science at Technical University of Hamburg-Harburg | B Tech - Computer Science at Amrita University<br>👨🏻‍💻 Python Developer <br><br>📈DataScience<br>🌨️AWS Cloud
 
 
 ## 🌐 Socials:
