@@ -1,6 +1,5 @@
 # 💫 About Me:
-🎓Masters - Data Science at Technical University of Hamburg-Harburg | B Tech - Computer Science at Amrita University<br>👨🏻‍💻 Python Developer <br><br>📈DataScience<br>🌨️AWS Cloud<br>💡 Focus: Data Engineering, NLP & Data Quality Systems<br>  
-⚙️ Building scalable pipelines, APIs, and intelligent systems
+🎓Masters - Data Science at Technical University of Hamburg-Harburg | B Tech - Computer Science at Amrita University<br>👨🏻‍💻 Python Developer <br><br>📈DataScience<br>🌨️AWS Cloud<br>💡 Focus: Data Engineering, NLP & Data Quality Systems<br>  ⚙️ Building scalable pipelines, APIs, and intelligent systems
 
 <br><br>## 🧠 How I Approach Problems<br>
 - Start with **data quality before modeling**<br>
