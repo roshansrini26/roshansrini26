@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=astro&logoColor=white" /></a>
+  <a href="https://roshansrini.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=astro&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/roshansrini26/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:roshansrini26@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
@@ -94,11 +94,11 @@ I work across the full AI stack: classical ML on real-world data, deep learning,
 ---
 
 ### GitHub
-
+ 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=roshansrini26&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansrini26&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roshansrini26&theme=github_dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roshansrini26&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=roshansrini26&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
+  <img src="https://streak-stats.demolab.com/?user=roshansrini26&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
 </p>
