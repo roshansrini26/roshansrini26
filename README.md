@@ -1,27 +1,92 @@
-# 💫 About Me:
-🎓Masters - Data Science at Technical University of Hamburg-Harburg | B Tech - Computer Science at Amrita University<br>👨🏻‍💻 Python Developer <br><br>📈DataScience<br>🌨️AWS Cloud<br>💡 Focus: Data Engineering, NLP & Data Quality Systems<br>  ⚙️ Building scalable pipelines, APIs, and intelligent systems
+<h1 align="center">Roshan Srinivasan</h1>
+<p align="center">
+  MSc Data Science @ TU Hamburg &nbsp;·&nbsp; ML & Data Engineering &nbsp;·&nbsp; Hamburg, Germany
+</p>
 
-<br><br>## 🧠 How I Approach Problems<br>
-- Start with **data quality before modeling**<br>
-- Prefer **simple interpretable models first**<br>
-- Automate pipelines before scaling models<br>
-- Focus on **business impact, not just accuracy**<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshansrini26/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshansrini26@gmail.com) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roshansrini26&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=roshansrini26&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshansrini26&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=astro&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/roshansrini26/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:roshansrini26@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roshansrini26&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About
+
+I build machine learning systems end to end — from messy data and validation pipelines to models, APIs and the dashboards people actually use.
+
+- 🧪 Former research intern at **Fraunhofer ITMP**, working on ML for compound permeability (EU IMI **COMBINE** project)
+- 🏎️ Developer at **e-gnition**, TUHH's Formula Student team — moving into the **Driverless** department for 26/27
+- 🎓 MSc Data Science at **TU Hamburg** · BTech Computer Science, Amrita Vishwa Vidyapeetham
+- 🔍 Open to **working student** roles in data science / ML in Hamburg
+
+---
+
+### Selected work
+
+| Project | What it does | Stack |
+|---|---|---|
+| **Compound permeability prediction** · Fraunhofer ITMP | Predicting Gram-negative bacterial permeability from molecular descriptors; SPARK dataset integration, applicability-domain checks, SHAP explanations | Python · RDKit · XGBoost · PyTorch (GNN) · Streamlit |
+| **Local RAG compliance reviewer** | Privacy-preserving document review: hybrid BM25 + vector retrieval over parsed PDFs, runs fully offline | Ollama · ChromaDB · Docling · FastAPI · React |
+| **Real-time radiation tracking** · TUHH Big Data Lab | Streaming pipeline from ingestion to live map, deployed on AWS | Kafka · Flink · FastAPI · React/Leaflet · EC2 |
+| **Financial data quality & revenue analytics** | Scraping + rule-based validation of Excel-sourced data, data model and dashboards | Python · pandas · Power BI |
+| **Barbell exercise classifier** | Classifies six exercises from accelerometer/gyroscope data; outlier removal, PCA and Fourier features | Python · scikit-learn · NN |
+
+<!-- Tip: link each project name to its repo once they're public, e.g. [**Local RAG compliance reviewer**](https://github.com/roshansrini26/REPO) -->
+
+---
+
+### How I work
+
+- **Data quality before modelling** — most model problems are data problems
+- **Simple, interpretable baselines first**, complexity only when it earns its place
+- **Automate the pipeline** before scaling the model
+- **Measure impact**, not just accuracy
+
+---
+
+### Toolkit
+
+**ML & data**
+<br>
+<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/RDKit-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
+
+**Engineering & infra**
+<br>
+<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" />
+
+**Frontend & BI**
+<br>
+<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-000000?style=flat-square&logo=powerbi&logoColor=white" />
+
+---
+
+### Credentials
+
+☁️ AWS Certified Cloud Practitioner &nbsp;·&nbsp; 🏆 Runner-up, Smart India Hackathon 2022 &nbsp;·&nbsp; 📄 1 publication
+
+---
+
+### GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=roshansrini26&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansrini26&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=roshansrini26&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
+</p>
