@@ -21,21 +21,6 @@ I build machine learning systems end to end — from messy data and validation p
 - 🔍 Open to **working student** roles in data science / ML in Hamburg
 
 ---
-
-### Selected work
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Compound permeability prediction** · Fraunhofer ITMP | Predicting Gram-negative bacterial permeability from molecular descriptors; SPARK dataset integration, applicability-domain checks, SHAP explanations | Python · RDKit · XGBoost · PyTorch (GNN) · Streamlit |
-| **Local RAG compliance reviewer** | Privacy-preserving document review: hybrid BM25 + vector retrieval over parsed PDFs, runs fully offline | Ollama · ChromaDB · Docling · FastAPI · React |
-| **Real-time radiation tracking** · TUHH Big Data Lab | Streaming pipeline from ingestion to live map, deployed on AWS | Kafka · Flink · FastAPI · React/Leaflet · EC2 |
-| **Financial data quality & revenue analytics** | Scraping + rule-based validation of Excel-sourced data, data model and dashboards | Python · pandas · Power BI |
-| **Barbell exercise classifier** | Classifies six exercises from accelerometer/gyroscope data; outlier removal, PCA and Fourier features | Python · scikit-learn · NN |
-
-<!-- Tip: link each project name to its repo once they're public, e.g. [**Local RAG compliance reviewer**](https://github.com/roshansrini26/REPO) -->
-
----
-
 ### How I work
 
 - **Data quality before modelling** — most model problems are data problems
