@@ -1,6 +1,6 @@
 <h1 align="center">Roshan Srinivasan</h1>
 <p align="center">
-  MSc Data Science @ TU Hamburg &nbsp;·&nbsp; ML & Data Engineering &nbsp;·&nbsp; Hamburg, Germany
+  AI / ML Engineer in the making &nbsp;·&nbsp; MSc Data Science @ TU Hamburg &nbsp;·&nbsp; Hamburg, Germany
 </p>
 
 <p align="center">
@@ -13,24 +13,52 @@
 
 ### About
 
-I build machine learning systems end to end — from messy data and validation pipelines to models, APIs and the dashboards people actually use.
+I work across the full AI stack: classical ML on real-world data, deep learning, and now **Generative AI**, with LLM-powered systems that retrieve, reason and act.
 
-- 🧪 Former research intern at **Fraunhofer ITMP**, working on ML for compound permeability (EU IMI **COMBINE** project)
-- 🏎️ Developer at **e-gnition**, TUHH's Formula Student team — moving into the **Driverless** department for 26/27
+- 🧪 Former research intern at **Fraunhofer ITMP**, applying ML and graph neural networks to drug-discovery data
+- 🏎️ Developer at **e-gnition**, TUHH's Formula Student team, moving into the **Driverless** department for 26/27
 - 🎓 MSc Data Science at **TU Hamburg** · BTech Computer Science, Amrita Vishwa Vidyapeetham
-- 🔍 Open to **working student** roles in data science / ML in Hamburg
+- 🔍 Open to **working student** roles in AI / ML / Data Science in Hamburg
 
 ---
+
+### 🤖 What I build with AI
+
+- **Generative AI & RAG:** private, local-first LLM applications with hybrid retrieval (BM25 + vectors) over real documents
+- **Agentic AI:** LLM agents with tool-calling that query live scientific APIs (ChEMBL, PubChem) and chain multi-step reasoning
+- **Applied ML:** interpretable models (XGBoost + SHAP), GNNs and multi-task neural nets for scientific and sensor data
+- **ML systems:** turning models into usable products with streaming pipelines, APIs and dashboards
+
+---
+
+### 🌱 Currently learning
+
+- **Agentic workflows:** LangGraph, multi-agent orchestration, MCP (Model Context Protocol)
+- **LLM engineering:** fine-tuning with LoRA / QLoRA, evaluation of RAG and LLM outputs
+- **Local & open models:** Ollama, Hugging Face Transformers, serving models efficiently
+- **Autonomous systems:** perception and sensor fusion for Formula Student Driverless
+
+---
+
 ### How I work
 
-- **Data quality before modelling** — most model problems are data problems
-- **Simple, interpretable baselines first**, complexity only when it earns its place
+- **Data quality before modelling:** most model problems are data problems
+- **Simple, interpretable baselines first**, adding complexity only when it earns its place
 - **Automate the pipeline** before scaling the model
 - **Measure impact**, not just accuracy
 
 ---
 
 ### Toolkit
+
+**AI & GenAI**
+<br>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG-000000?style=flat-square" />
+<img src="https://img.shields.io/badge/AI%20Agents-000000?style=flat-square" />
 
 **ML & data**
 <br>
@@ -40,7 +68,6 @@ I build machine learning systems end to end — from messy data and validation p
 <img src="https://img.shields.io/badge/XGBoost-000000?style=flat-square" />
 <img src="https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/RDKit-000000?style=flat-square" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" />
 
 **Engineering & infra**
 <br>
