@@ -92,13 +92,3 @@ I work across the full AI stack: classical ML on real-world data, deep learning,
 ☁️ AWS Certified Cloud Practitioner &nbsp;·&nbsp; 🏆 Runner-up, Smart India Hackathon 2022 &nbsp;·&nbsp; 📄 1 publication
 
 ---
-
-### GitHub
- 
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roshansrini26&theme=github_dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roshansrini26&theme=github_dark" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=roshansrini26&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=30363d" />
-</p>
